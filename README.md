@@ -104,7 +104,7 @@ license. See [LICENSE](LICENSE) for more information.
 
 ## Links
 
-For more information about Abseil:
+For more information about Abseil follow given links:
 
 * Consult our [Abseil Introduction](https://abseil.io/about/intro)
 * Read [Why Adopt Abseil](https://abseil.io/about/philosophy) to understand our
